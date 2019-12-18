@@ -6,7 +6,13 @@ actors and the related infomation to both. While also having a login and registe
 
 ## Featurs 
 
-Find a film 
-See all the related infomation for that film
-Find an actor 
-See all the movies that actor is in
+* To be able to search for a film by name 
+* To see all the related infomation for that film e.g. Description, actors etc
+* To be able to search for an actor 
+* See all releated films by the actor 
+
+# Built With 
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [Payara](https://www.payara.fish/) - Server Used
+* [MySql](https://www.mysql.com/) - Database used
+* [Java](https://www.java.com/) - Coding language used
